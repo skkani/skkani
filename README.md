@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skkani
 - 👀 I’m interested in learning python,aws,docker,kubernetes
-- 🌱 I’m currently learning python from THE COURSE Google IT Automation with Python Professional Certificate FROM COURSERA
-- 💞️ I’m looking to collaborate on python related projects, creating APIs
+- 🌱 I’m certified and experienced scrum master as well
+- 💞️ I’m looking to collaborate on Software development related projects, creating website development,APIs etc
 - 📫 How to reach me through my emailid kaninachimuthu@gmail.com
 
 <!---
